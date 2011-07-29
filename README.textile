@@ -1,0 +1,7 @@
+h1. Various front-end code chunks
+
+*Adam Rensel's Code*
+
+h2. Details
+
+* Javascript - Javascript related files

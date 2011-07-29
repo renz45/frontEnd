@@ -1,0 +1,7 @@
+h1. Various javascript code chunks
+
+*Adam Rensel's Code*
+
+h2. Details
+
+* bookmarketletFileLoad.js - File used to load external javascript files and css files through a bookmarklet
