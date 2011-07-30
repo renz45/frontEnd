@@ -6,11 +6,11 @@ javascript:(function(){document.body.appendChild(document.createElement('script'
 By doing this you can add as much javascript to a page through a bookmarklet as you want.
 
 */
-loadjscssfile("http://www.adamrensel.com/sf/ui-lightness/jquery-ui-1.8.14.custom.css", "css");
-loadjscssfile("http://www.adamrensel.com/sf/jquery-1.6.2.min.js", "js");
-loadjscssfile("http://www.adamrensel.com/sf/jquery-ui-1.8.14.custom.min.js", "js");
-loadjscssfile("http://www.adamrensel.com/sf/styles/mainStyles.js", "js");
-loadjscssfile("http://www.adamrensel.com/sf/ui.js", "js");
+loadjscssfile("http://www.adamrensel.com/ui-lightness/jquery-ui-1.8.14.custom.css", "css");
+loadjscssfile("http://www.adamrensel.com/jquery-1.6.2.min.js", "js");
+loadjscssfile("http://www.adamrensel.com/jquery-ui-1.8.14.custom.min.js", "js");
+loadjscssfile("http://www.adamrensel.com/styles/mainStyles.css", "css");
+loadjscssfile("http://www.adamrensel.com/ui.js", "js");
 
 
 
